@@ -22,10 +22,6 @@ This project features:
   
 - **CSS**: Employed to style and animate the various components of the penguin and its environment.
 
-#### Preview
-
-![Penguin Preview](preview.png)
-
 #### Acknowledgments
 
 Special thanks to the creative minds behind the original design and animation inspiration.
